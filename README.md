@@ -7,6 +7,9 @@
  ### Goal
   To create a projection for popular stocks so that users can make decisions on what shares to purchase.
  
+ ### How to Use the Project
+ Project can be used to predict and model financial data for any SNP500 company. Replace the TSLA ticker with another stock (exp: AAPL) in order to receive a projection for Apple
+ stock. Change start and end dates in order to receive different timeframes for data projection.
  
 
 
