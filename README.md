@@ -1,4 +1,4 @@
-# Python Finance Project
+# Python Webscraping and Stock Price Prediction Project
  Python finance SNP500
  
  
